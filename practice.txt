@@ -9,9 +9,16 @@ btech cse
 aub
 
 yamuna
+<<<<<<< HEAD
 btech cse 
 aub
 
 mahammed fayeeq
 btech cse
+btech cse
+aub
+
+mahammed fayeeq
+btech
+
 aub
